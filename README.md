@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <p align=center>
+        <a href="https://www.youtube.com/c/sofiyanifren">
+                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+                    alt="Ubuntu"></a>
         <a href="https://discord.gg/JfAV834G">
                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
                     alt="chat on Discord"></a>
@@ -10,17 +13,10 @@
         <a href="https://www.linkedin.com/in/sofiyanifren/">
                 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
                     alt="connect on LinkedIn"></a>
-</p>
-
-<p align=center>     
-        <a href="https://www.youtube.com/c/sofiyanifren">
-                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-                    alt="Ubuntu"></a>
         <a href="https://medium.com/@sofiyaneditions">
                 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
                     alt="Medium"></a>
 </p>
-
 
 <p align=center> 
         <a href="">
@@ -45,7 +41,7 @@
 
 <p align=center>     
         <a href="https://github.com/SofiyanIfren">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={SofiyanIfren}&theme=blue-green"
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyanIfren&theme=blue-green"
                     alt="Stats"></a>
         
 </p>        
