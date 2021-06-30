@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <p align=center>
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
@@ -22,7 +20,7 @@
         <a href="">
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
                     alt="Java"></a>
-        <a href="https://www.python.com">
+        <a href="">
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
                     alt="Python3"></a>
         <a href="">
@@ -41,22 +39,7 @@
 
 <p align=center>     
         <a href="https://github.com/SofiyanIfren">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofiyanIfren&theme=blue-green"
+                <img src="https://github-readme-stats.vercel.app/api?username=SofiyanIfren&theme=blue-green"
                     alt="Stats"></a>
         
-</p>        
-
-            
-
-> lorem ipsum
-
-## Guide d'installation
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</p>
