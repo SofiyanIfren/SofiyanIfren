@@ -2,7 +2,7 @@
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
                     alt="Ubuntu"></a>
-        <a href="https://discord.gg/JfAV834G">
+        <a href="https://discord.gg/Xr3eqyVwvZ">
                 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
                     alt="chat on Discord"></a>
         <a href="https://twitter.com/sofiyan_ifren">
