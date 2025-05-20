@@ -55,17 +55,17 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 10+ years in IT, now focused on **automation**, **system optimization** and **scalable pipelines**  
-- ☁️ Passionate about **Cloud Computing**, **DevOps**, **Innovation**, and **Infrastructure as Code**
-- 📢 Advocate for **Open Source** and knowledge sharing
-- 🧠 Currently learning **Flutter**, **Kotlin** & **Go**
+- 🔧   10+ years in IT, now focused on **automation**, **system optimization** and **scalable pipelines**  
+- ☁️   Passionate about **Cloud Computing**, **DevOps**, **Innovation**, and **Infrastructure as Code**
+- 📢   Advocate for **Open Source** and knowledge sharing
+- 🧠   Currently learning **Flutter**, **Kotlin** & **Go**
 
 ---
 
 ### 🎓 I Teach & Create
 
-- 👨‍🏫 Working as a **consultant and trainer** in the IT field
-- 🎥 I create educational content on [YouTube](https://www.youtube.com/c/sofiyanifren)  
+- 👨‍🏫   Working as a **consultant and trainer** in the IT field
+- 🎥   I create educational content on [YouTube](https://www.youtube.com/c/sofiyanifren)  
 &nbsp;&nbsp;&nbsp;&nbsp;→ DevOps, Cloud, Automation, and more
 
 ---
