@@ -36,10 +36,3 @@
                 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                     alt="React"></a>
 </p>  
-
-<p align=center>     
-        <a href="https://github.com/SofiyanIfren">
-                <img src="https://github-readme-stats.vercel.app/api?username=SofiyanIfren&theme=blue-green"
-                    alt="Stats"></a>
-        
-</p>
