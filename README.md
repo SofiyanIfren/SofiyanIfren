@@ -1,8 +1,11 @@
 Hi there 👋 I'm Sofiyan,
 
 👨‍💻 A Senior Software Engineer turned Dev(Sec)Ops after 10 years in IT.
+
 🔧 I love automating, building scalable pipelines, improving and optimizing systems.
+
 📢 I'm a strong advocate for 📜 Open Source, ☁️ Cloud Computing, 🚀 DevOps, 🧠 Innovation, and 🤖 Automation.
+
 🎓 I'm currently working as an IT Consultant and Trainer — and you can find some of my educative content on my [YouTube channel](https://www.youtube.com/c/sofiyanifren) 🎥.
 
 <p align=center>
