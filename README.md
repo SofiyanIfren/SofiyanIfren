@@ -1,13 +1,3 @@
-Hi there 👋 I'm Sofiyan,
-
-👨‍💻  A Senior Software Engineer turned Dev(Sec)Ops after 10 years in IT.  
-🔧  I love automating, building scalable pipelines, improving and optimizing systems.  
-📢  I'm a strong advocate for 📜 Open Source, ☁️ Cloud Computing, 🚀 DevOps, 🧠 Innovation, and 🤖 Automation.  
-🌱  Always improving myself, I’m currently learning Flutter and Go  
-🎓 I'm currently working as an IT Consultant and Trainer — and you can find some of my educative content on my [YouTube channel](https://www.youtube.com/c/sofiyanifren) 🎥.  
-
----
-
 <p align=center>
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
@@ -43,3 +33,66 @@ Hi there 👋 I'm Sofiyan,
                 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
                     alt="React"></a>
 </p>  
+
+--
+
+<h1 align="center">Hi there 👋, I'm Sofiyan</h1>
+
+<p align="center">
+  <em>Senior Software Engineer turned <strong>Dev(Sec)Ops</strong> | IT Consultant & Trainer | Open Source Advocate</em>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔧 10+ years in IT, now focused on **automation**, **system optimization** and **scalable pipelines**  
+- ☁️ Passionate about **Cloud Computing**, **DevOps**, **Innovation**, and **Infrastructure as Code**
+- 📢 Advocate for **Open Source** and knowledge sharing
+- 🧠 Currently learning **Flutter**, **Kotlin** & **Go**
+
+---
+
+### 🎓 I Teach & Create
+
+- 👨‍🏫 Working as a **consultant and trainer** in the IT field
+- 🎥 I create educational content on [YouTube](https://www.youtube.com/c/sofiyanifren)  
+&nbsp;&nbsp;&nbsp;&nbsp;→ DevOps, Cloud, Automation, and more
+
+---
+
+### 🛠️ Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiyanifren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/sofiyanifren" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/c/sofiyanifren" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
