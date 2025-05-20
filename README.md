@@ -34,12 +34,21 @@
                     alt="React"></a>
 </p>  
 
---
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+---
 
 <h1 align="center">Hi there 👋, I'm Sofiyan</h1>
 
 <p align="center">
-  <em>Senior Software Engineer turned <strong>Dev(Sec)Ops</strong> | IT Consultant & Trainer | Open Source Advocate</em>
+  <em>Software Engineer | <strong>Dev(Sec)Ops</strong> | IT Consultant & Trainer</em>
 </p>
 
 ---
@@ -61,27 +70,6 @@
 
 ---
 
-### 🛠️ Tech Toolbox
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sofiyanifren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🔗 Connect with me
 
 <p>
@@ -91,8 +79,12 @@
   <a href="https://www.youtube.com/c/sofiyanifren" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sofiyanifren&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
