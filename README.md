@@ -2,9 +2,6 @@
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
                     alt="Youtube channel"></a>
-        <a href="https://discord.gg/Xr3eqyVwvZ">
-                <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-                    alt="chat on Discord"></a>
         <a href="https://twitter.com/sofiyan_ifren">
                 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
                     alt="follow on Twitter"></a>
