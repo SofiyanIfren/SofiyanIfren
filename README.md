@@ -1,3 +1,7 @@
+### Hi there 👋 I'm Sofiyan,
+
+A Senior Software engineer than turned Dev(Sec)Ops after 10 years of IT 🔹 I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 🔹 I am actually an IT Consultant and Trainer and you can find some of my educative contents on my Youtube channel.
+
 <p align=center>
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
