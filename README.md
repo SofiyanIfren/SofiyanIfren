@@ -1,15 +1,12 @@
 Hi there 👋 I'm Sofiyan,
 
-👨‍💻 A Senior Software Engineer turned Dev(Sec)Ops after 10 years in IT.
+👨‍💻  A Senior Software Engineer turned Dev(Sec)Ops after 10 years in IT.  
+🔧  I love automating, building scalable pipelines, improving and optimizing systems.  
+📢  I'm a strong advocate for 📜 Open Source, ☁️ Cloud Computing, 🚀 DevOps, 🧠 Innovation, and 🤖 Automation.  
+🌱  Always improving myself, I’m currently learning Flutter and Go  
+🎓 I'm currently working as an IT Consultant and Trainer — and you can find some of my educative content on my [YouTube channel](https://www.youtube.com/c/sofiyanifren) 🎥.  
 
-🔧 I love automating, building scalable pipelines, improving and optimizing systems.
-
-📢 I'm a strong advocate for 📜 Open Source, ☁️ Cloud Computing, 🚀 DevOps, 🧠 Innovation, and 🤖 Automation.
-
-🌱  I’m currently learning Flutter, Go
-
-🎓 I'm currently working as an IT Consultant and Trainer — and you can find some of my educative content on my [YouTube channel](https://www.youtube.com/c/sofiyanifren) 🎥.
-
+  
 <p align=center>
         <a href="https://www.youtube.com/c/sofiyanifren">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
